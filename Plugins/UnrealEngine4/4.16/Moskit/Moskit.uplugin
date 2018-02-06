@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Moskit",
+  "Description": "Moskit",
+  "Category": "Moskit",
+  "CreatedBy": "GREWCrewLab",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EngineVersion":"4.16.0",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "Moskit",
+      "Type": "Developer"
+    }
+  ]
+}
